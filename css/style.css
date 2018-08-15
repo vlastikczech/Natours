@@ -137,10 +137,10 @@ body {
     .btn--white::after {
       background-color: #fff; }
   .btn--green {
-    background-color: #7ed56f;
+    background-color: #28b485;
     color: #fff; }
     .btn--green::after {
-      background-color: #7ed56f; }
+      background-color: #28b485; }
   .btn::after {
     content: "";
     /* have to specify content for it to appear */
@@ -181,7 +181,7 @@ body {
   perspective: 150rem;
   -moz-perspective: 150rem;
   position: relative;
-  height: 52em; }
+  height: 52rem; }
   .card__side {
     height: 52rem;
     transition: all .8s ease;
